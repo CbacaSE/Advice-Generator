@@ -34,7 +34,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution Site](https://www.frontendmentor.io/solutions/advice-generator-app-using-api-3SjVVVLTGV)
-- Live Site URL: [Live Site](https://ornate-sopapillas-9f0300.netlify.app/)
+- Live Site URL: [Live Site](https://greatadvicegenerator.netlify.app/)
 
 ## My process
 I began this process like many of my projects with creating a Mockup of what the project should look like using Figma. This is to continue my growth and understanding of Figma. Once the desgin was duplicated, I did my natural course of making HTML Elements fitting for the projects different sections. Then I added my CSS to visually interpert my Figma mockups. Lastly I did add my API using just a little bit of JavaScript. This shows how I can incorporate my knowledge of JavaScrip and the use of API's within my project. All of my site is responsive using Tailwind Media Query recommendations.
